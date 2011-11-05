@@ -12,4 +12,6 @@ depcomp
 install-sh
 missing
 stamp-h1
-
+config.h.in~
+src/crossHello.exe
+src/crossHello.o

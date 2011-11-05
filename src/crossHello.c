@@ -11,7 +11,7 @@
  *       Compiler:  gcc
  *
  *         Author:  Cristiano Prato (CrP), cristiano.prato@gmail.com
- *        Company:  Zirak Srl
+ *        Company:  
  *
  * =====================================================================================
  */

@@ -1,2 +1,6 @@
 CROSS_HELLO=~/sandbox/CrossHello/ FILTER="configure.ac Makefile.am src/Makefile.am src/*.c src/*.h"{
+ configure.ac
+ Makefile.am
+ src/Makefile.am
+ src/crossHello.c
 }

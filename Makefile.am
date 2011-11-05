@@ -4,8 +4,3 @@ AUTOMAKE_OPTIONS = subdir-objects
 
 SUBDIRS = src
 
-if WINDOWS
-AM_CPPFLAGS = -DHOST_WINDOWS
-else
-AM_CPPFLAGS = -DHOST_LINUX
-endif
